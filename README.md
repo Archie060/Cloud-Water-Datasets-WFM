@@ -3,6 +3,7 @@
 This repository contains cloud water chemistry measurements collected at the summit of Whiteface Mountain Observatory in the Adirondack Mountains, New York, USA. 
 The dataset includes measurements of major inorganic ions and low molecular weight organic acids in cloud water. 
 
+ The file is sorted by sample ID, not dump date/time.
 ---
 
 ## Data Units
